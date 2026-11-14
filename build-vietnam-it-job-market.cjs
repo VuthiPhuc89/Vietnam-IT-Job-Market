@@ -19,7 +19,7 @@ const sources = `## Tài liệu tham khảo
 
 - Đề cương thực tập chuyên ngành nhóm 32 (bản ngày 02/11/2026).
 - Kế hoạch cá nhân đã cung cấp: tham khảo phạm vi học AWS, lưu trữ, hạ tầng, xác thực và kiểm thử. Kế hoạch sáu tuần được dùng để tham khảo nội dung học tập.
-- Worklog học AWS 12 tuần của Tòng Văn Tâm: tham khảo bố cục và lịch 10/08–30/10/2026; không sử dụng kết quả học tập của bạn làm thành tích của nhóm.
+- Worklog học AWS 12 tuần của Vũ Thị Phúc: tham khảo bố cục và lịch 10/08–30/10/2026; không sử dụng kết quả học tập của bạn làm thành tích của nhóm.
 - Mã nguồn CloudDocs hiện có: README, Back_end/README, AUTH_COGNITO, STORAGE_QUOTAS, WORK_TASKS và cấu hình S3.
 - [AWS S3 presigned URL](https://docs.aws.amazon.com/AmazonS3/latest/userguide/using-presigned-url.html).
 - [S3 CORS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html).
@@ -874,7 +874,7 @@ Trước khi xuất bản, đổi baseURL sang URL repository/site thật. Khôn
 ## Những điểm cần rà lại trước nộp
 
 - 07/08 là khởi động; 12 tuần thứ Hai–thứ Sáu từ 10/08 đến 30/10. Đề cương kéo dài tới 28/11.
-- Lịch từng ngày là tái dựng theo đề cương và bản Word của Tòng Văn Tâm; chưa phải xác nhận lịch sử hoàn thành.
+- Lịch từng ngày là tái dựng theo đề cương và bản Word của Vũ Thị Phúc; chưa phải xác nhận lịch sử hoàn thành.
 - Tính năng đầu tháng 11 được ghi riêng ở cuối Worklog.
 - S3/Cognito có trong mã nguồn; RDS theo xác nhận người dùng. EC2/CloudWatch/Budgets cần minh chứng môi trường thực tế.
 - Cần endpoint demo, ảnh Console đã che secret, schema export được phép dùng, kết quả test và số liệu chi phí trước nghiệm thu.
